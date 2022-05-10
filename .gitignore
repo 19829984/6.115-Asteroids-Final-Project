@@ -1,0 +1,40 @@
+as31
+datasheets
+edsim51di
+expresspcbclassicsetup_7_8_0.exe
+Paul Scherz, Simon Monk - Practical Electronics for Inventors, Third Edition-McGraw-Hill_TAB Electronics (2013).epub
+PSocCreatorsetup_3.3_cp3_b9648.exe
+*.lst
+*.hex
+*.pdf
+*.zip
+*.bmp
+*.png
+*.psd
+*.lnk
+*.epub
+lab1/Lab\ 1/
+
+### PSoCCreator ###
+# Modified from https://www.gitignore.io/?templates=psoccreator
+# You may need to add additional directories, e.g. CortexM3/
+
+# Project Settings
+*.cywrk.*
+*.cyprj.*
+
+# Generated Assets and Resources
+Debug/
+Release/
+Export/
+CortexM0/
+codegentemp
+Generated_Source
+*_datasheet.pdf
+*_timing.html
+*.cycdx
+*.cyfit
+*.rpt
+*.svd
+*.log
+*.zip
